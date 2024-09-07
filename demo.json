@@ -1,0 +1,14 @@
+{
+  "bets": [
+    {
+      "user": "User1",
+      "amount": 100,
+      "betTime": "2024-09-07T12:00:00Z"
+    },
+    {
+      "user": "User2",
+      "amount": 200,
+      "betTime": "2024-09-07T12:05:00Z"
+    }
+  ]
+}
